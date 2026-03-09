@@ -17,13 +17,12 @@ I use this repository to practice concepts, build small projects, and track my p
 
 ## 📂 Programs
 
-* **Employee ID Generator** – Demonstrates the use of static data members.
-* **Mini ATM System** – A simple ATM simulation program using C++ and OOP concepts.
-* **Shop System** – Basic shop management logic implemented using classes.
-* **Student Class Example** – Demonstrates class and object usage.
-* **Mobile Password System** – Password verification program with a 3-attempt security system.
-* **Friend Function (Two Classes Sum)** – Example of using friend functions with two classes.
-
+- [Employee ID Generator](Employee_ID_Generator.cpp) – Demonstrates the use of static data members.
+- [Mini ATM System](Mini_ATM_System.cpp) – A simple ATM simulation program using C++ and OOP concepts.
+- [Shop System](shop_system.cpp) – Basic shop management logic implemented using classes.
+- [Student Class Example](student_class.cpp) – Demonstrates class and object usage.
+- [Mobile Password System](mobile_password_system.cpp) – Password verification program with a 3-attempt security system.
+- [Friend Function (Two Classes Sum)](friend_function_two_classes_sum.cpp) – Example of using friend functions with two classes.
 ---
 
 ## 📚 Topics Covered
