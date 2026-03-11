@@ -23,6 +23,7 @@ I use this repository to practice concepts, build small projects, and track my p
 - [Student Class Example](student_class.cpp) – Demonstrates class and object usage.
 - [Mobile Password System](mobile_password_system.cpp) – Password verification program with a 3-attempt security system.
 - [Friend Function (Two Classes Sum)](friend_function_two_classes_sum.cpp) – Example of using friend functions with two classes.
+- [Calendar Program](calendar program.cpp)-Simple calendar display program with fixed festivals using C++.
 ---
 
 ## 📚 Topics Covered
