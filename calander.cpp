@@ -68,8 +68,7 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        cout << "\n19=chatrapatti shivaji maharaj jayanti";
-        break;
+        cout << "\n19=chhatrapati shivaji maharaj jayanti";
 
         break;
     case 3:
@@ -161,7 +160,7 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        cout << "\n8=Independence day";
+        cout << "\n15=Independence day";
         break;
 
         break;
@@ -235,4 +234,5 @@ int main()
     calendar c1;
     c1.showMonths();
     c1.printCalendar();
+
 }
