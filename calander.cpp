@@ -11,12 +11,10 @@ class calendar
 public:
     void showMonths();
     void printCalendar();
-    void addEvent();
-    void showEvents();
 };
 void calendar::showMonths()
 {
-    int choice;int year;
+    int choice;
     cout <<"Enter Year"<<endl;
     cin>>year;
     cout << "Enter Month No. " << endl;
@@ -84,7 +82,6 @@ void calendar ::printCalendar()
             }
         }
         cout << "\n4=Holi";
-        break;
 
         break;
     case 4:
@@ -101,8 +98,6 @@ void calendar ::printCalendar()
         }
 
         break;
-
-        break;
     case 5:
         cout << "May" << endl;
         cout << "sun  mon  tue  wed  thu  fri  sat " << endl;
@@ -115,7 +110,6 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        break;
 
         break;
     case 6:
@@ -130,7 +124,6 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        break;
 
         break;
     case 7:
@@ -145,7 +138,6 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        break;
 
         break;
     case 8:
@@ -161,7 +153,6 @@ void calendar ::printCalendar()
             }
         }
         cout << "\n15=Independence day";
-        break;
 
         break;
     case 9:
@@ -176,7 +167,6 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        break;
 
         break;
     case 10:
@@ -191,7 +181,6 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        break;
 
         break;
     case 11:
@@ -206,7 +195,6 @@ void calendar ::printCalendar()
                 cout << "\n";
             }
         }
-        break;
 
         break;
     case 12:
@@ -236,3 +224,4 @@ int main()
     c1.printCalendar();
 
 }
+
